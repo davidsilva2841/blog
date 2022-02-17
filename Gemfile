@@ -36,3 +36,7 @@ gem 'jquery-rails', '< 4'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'debase'
+gem 'ruby-debug-ide'
+gem 'byebug'
